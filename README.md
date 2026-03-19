@@ -117,8 +117,14 @@ npm run dev
 📸 Screenshots
 (Add your screenshots here for better presentation)
 
-Home Page	Features Page
-https://link-to-screenshot	https://link-to-screenshot
+### Home Page	
+
+<img width="1896" height="986" alt="Image" src="https://github.com/user-attachments/assets/f801b8f7-595a-404d-be4c-b8c8296981cc" />
+
+### Features Page
+
+<img width="1897" height="982" alt="Image" src="https://github.com/user-attachments/assets/b0f18bf5-0934-4d35-9af4-193e85c8c1ea" />
+
 
 ## 🤝 Contributing
 ### Contributions are welcome!
