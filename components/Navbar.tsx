@@ -109,7 +109,7 @@ export function Navbar() {
             initial={{ opacity: 0, y: -10 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -10 }}
-            className="md:hidden bg-card/95 backdrop-blur-xl border-b border-border/50 pb-6 space-y-4"
+            className="md:hidden bg-card/95 backdrop-blur-xl border-b border-border/50 pb-6 pr-2 space-y-4 absolute top-full left-0 w-full shadow-lg" 
           >
             {[
               { href: '/home', label: 'Home' },
@@ -130,13 +130,15 @@ export function Navbar() {
                 {link.label}
               </Link>
             ))}
+            <a href="https://project-mgt-ruby.vercel.app/">
             <motion.button
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              className="mx-4 w-full px-6 py-2 bg-gradient-to-r from-cyan-400 to-cyan-500 text-background font-semibold rounded-full hover:shadow-lg hover:shadow-cyan-500/50 transition-all"
+              className="mx-1 w-full px-6 py-2 bg-gradient-to-r from-cyan-400 to-cyan-500 text-background font-semibold rounded-full hover:shadow-lg hover:shadow-cyan-500/50 transition-all"
             >
               Get Started
             </motion.button>
+            </a>
           </motion.div>
         )}
       </div>
