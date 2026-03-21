@@ -10,7 +10,7 @@ interface VideoModalProps {
   videoId?: string;
 }
 
-export function VideoModal({ isOpen, onClose, videoId = 'GnnrLxkkbOg' }: VideoModalProps) {
+export function VideoModal({ isOpen, onClose, videoId = 'kfddc8ueV5U' }: VideoModalProps) {
   const [isMuted, setIsMuted] = useState(false);
   const [isPlayerReady, setIsPlayerReady] = useState(false);
   const playerRef = useRef<any>(null);
