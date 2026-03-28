@@ -18,7 +18,7 @@
 <br/>
 
 > **Final Year B.Tech Project** — Department of Computer Science & Engineering
-> Built with ❤️ by **Indrasen Singh** & **Saket Chaudhary**
+> Built with ❤️ by **Saket Chaudhary** & **Indrasen Singh**
 > Under the guidance of **Mr. Dileep Kumar Yadav**, Assistant Professor
 
 <br/>
@@ -360,6 +360,7 @@ This project was built with genuine passion and a whole lot of late nights by:
 ### Our Supervisor
 **Mr. Dileep Kumar Yadav**
 Assistant Professor, Department of Computer Science & Engineering
+Veer Bahadur Singh Purvanchal University, Jaunpur
 
 *Thank you for your patience, guidance, and support throughout this journey. Every review session, every suggestion, and every word of encouragement made a real difference.*
 
@@ -396,7 +397,7 @@ Have questions, suggestions, or just want to say hi?
 
 **Built with ❤️, ☕, and a lot of Stack Overflow**
 
-*COGNIFY — B.Tech Final Year Project | Department of Computer Science & Engineering | 2024–2025*
+*COGNIFY — B.Tech Final Year Project | Department of Computer Science & Engineering | 2022–2026*
 
 ⭐ If you found this project helpful or inspiring, please give it a star!
 
